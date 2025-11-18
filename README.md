@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Descripción del Proyecto
+## 📖 Descripción del Proy
 **Yuyariy** es una plataforma digital innovadora que fomenta la **lectura crítica** y ayuda a **reducir el sesgo de confirmación** en los usuarios.  
 
 El sistema está compuesto por:  
