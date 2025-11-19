@@ -16,7 +16,7 @@ El sistema está compuesto por:
 
 ---
 
-## ✨ Funcionalidades principales
+## ✨ Funcionalidades principal
 
 ### 📱 Frontend
 - Interfaz web responsiva y accesible.  
